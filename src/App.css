@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.otp-input {
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  margin-right: 0.5rem;
+}
+
