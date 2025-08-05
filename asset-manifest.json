@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/otp_use_case/static/css/main.60e4bf12.css",
+    "main.js": "/otp_use_case/static/js/main.ebecb463.js",
+    "static/js/453.0803dead.chunk.js": "/otp_use_case/static/js/453.0803dead.chunk.js",
+    "index.html": "/otp_use_case/index.html",
+    "main.60e4bf12.css.map": "/otp_use_case/static/css/main.60e4bf12.css.map",
+    "main.ebecb463.js.map": "/otp_use_case/static/js/main.ebecb463.js.map",
+    "453.0803dead.chunk.js.map": "/otp_use_case/static/js/453.0803dead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e4bf12.css",
+    "static/js/main.ebecb463.js"
+  ]
+}
